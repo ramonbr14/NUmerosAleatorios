@@ -19,11 +19,4 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
 });
-
-
-
-
-
-import React from 'react';
-import {Text, SafeAreaView,TouchableOpacity} from 'react-native';
-
+*/
